@@ -20,3 +20,4 @@ if (orig == sum_val):
     print(orig , "is armstrong number.")
 else:
     print(orig , "is not armstrong number.")
+
