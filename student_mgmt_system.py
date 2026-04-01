@@ -29,7 +29,7 @@ def add_student():
     roll_no = int(input("Enter the student roll no. : "))
 
     if roll_no in students:
-        print("\nStudent alrey exists!")
+        print("\nStudent already exists!")
     else:
         name = input("Enter student name : ")
         city = input("Enter city :")
